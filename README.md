@@ -12,8 +12,6 @@
   >
   > You can reach me via this github or email [me](pickboa@gmail.com)
 
-  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/einsitang/einsitang/master/gifs/coder.gif" /
-
 
   <details open>
     <summary><b>🧑‍🚀 Open Source Projects</b></summary>
